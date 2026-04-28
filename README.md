@@ -42,16 +42,17 @@ If oxygen levels drop:
 No sound is required.
 
 ## How to run
-'''bash
+
+```bash
 python3 main.py
-'''
+```
 
 Optional:
 
-'''bash
+```bash
 python3 main.py --delay 0
 python3 main.py --cycles 5
-'''
+```
 
 ## Project structure
   - main.py → entry point
