@@ -11,6 +11,7 @@ That creates real gaps:
   - Deaf individuals can't access audio alarms
   - Loud environments can override sound
   - Important warnings can be missed
+
 I wanted to explore how systems can communicate clearly WITHOUT SOUND, while still being effective in high-risk situations.
 
 ## How it works:
@@ -44,7 +45,9 @@ No sound is required.
 python3 main.py
 
 Optional:
+
 python3 main.py --delay 0
+
 python3 main.py --cycles 5
 
 ## Project structure:
