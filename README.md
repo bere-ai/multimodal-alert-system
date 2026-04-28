@@ -1,10 +1,10 @@
 # Multimodal-Alert-System (Sound-Free Safety System)
-## What this is:
+## What this is
 I built this as a sound-free alert system for environments where traditional audio alarm don't work well.
 
-Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly- especially for Deaf users or in high-noise environments. 
+Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly-especially for Deaf users or in high-noise environments. 
 
-## Why it matters:
+## Why it matters
 Most alert systems depend on sound.
 
 That creates real gaps:
@@ -14,7 +14,7 @@ That creates real gaps:
 
 I wanted to explore how systems can communicate clearly WITHOUT SOUND, while still being effective in high-risk situations.
 
-## How it works:
+## How it works
 The system monitors simulated conditions:
   - Oxygen levels
   - Temperature
@@ -29,9 +29,9 @@ Each alert triggers:
   - A vibration pattern (light/medium/strong)
   - A clear message
 
-If multiple conditions happen at once, the system prioritizes the most critical one.
+If multiple conditions occur at once, the system prioritizes the most critical one.
 
-## Example scenario:
+## Example scenario
 In a high-risk environment (like a spacecraft or industrial setting)
 
 If oxygen levels drop:
@@ -41,28 +41,31 @@ If oxygen levels drop:
 
 No sound is required.
 
-## How to run:
+## How to run
+'''bash
 python3 main.py
+'''
 
 Optional:
 
+'''bash
 python3 main.py --delay 0
-
 python3 main.py --cycles 5
+'''
 
-## Project structure:
+## Project structure
   - main.py → entry point
   - alert_system/engine.py → core logic
   - alert_system/models.py → data structures
   - alert_system/console.py → output formatting
   - alert_system/simulator.py → environment simulation
 
-## Future direction:
+## Future direction
   - Connect to real sensors
   - Add wearable vibration devices
   - Expand to multi-user alert systems
   - Explore predictive alerting with AI
 
-## Author:
+## Author
 Berenice Alvarez-Caballero (Bere)
 Interested in accessibility, systems design, and human-centered AI
