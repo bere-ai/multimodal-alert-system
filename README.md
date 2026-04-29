@@ -1,4 +1,6 @@
-# Multimodal-Alert-System (Sound-Free Safety System)
+# Multimodal Alert System (Sound-Independent Safety)
+**A sound-independent safety system for environments where audio fails.**
+
 ## What this is
 I built this as a sound-free alert system for environments where traditional audio alarm don't work well.
 
