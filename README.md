@@ -39,6 +39,17 @@ If oxygen levels drop:
   - A STRONG VIBRATION PATTERN is triggered
   - A clear warning message is displayed
 
+## Demo
+
+### Normal state
+![Normal](screenshots/normal.png)
+
+### Warning state
+![Warning](screenshots/warning.png)
+
+### Critical state
+![Critical](screenshots/critical.png)
+
 No sound is required.
 
 ## How to run
