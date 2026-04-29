@@ -41,7 +41,7 @@ If oxygen levels drop:
 
 ## Demo
 
-Below is a live terminal simulation of the system responding
+Below is a live terminal simulation of the system responding to changing environmental conditions.
 
 ### Normal state
 ![Normal](screenshots/normal.png)
