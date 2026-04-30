@@ -29,7 +29,7 @@ This project explores a different approach.
 By removing audio as a dependency and designing alerts through visual and haptic feedback, this system creates a more inclusive and reliable way for humans to detect and respond to critical situations.
 
 The goal isn't just to build a tool—it's to challenge an assumption:
-That sound must be the primary way we communicate urgency.
+That sound has to be the primary way we communicate urgency.
 
 When we redesign how systems communicate, we don't just improve safety—we redefine who is able to participate in them.
 
@@ -37,11 +37,7 @@ When we redesign how systems communicate, we don't just improve safety—we rede
 ## How it works
 The system converts environmental data into prioritized, multi-sensory signals designed for rapid human response without relying on sound.
 
-The system monitors simulated conditions:
-  - Oxygen levels
-  - Temperature
-
-It evaluates them using a priority-based system:
+The system monitors simulated oxygen and temperature levels, evaluating them using a priority-based system:
   - Advisory → early priority
   - Warning → medium priority
   - Critical → high priority
@@ -51,7 +47,7 @@ Each alert triggers:
   - A vibration pattern (light/medium/strong)
   - A clear message
 
-If multiple conditions occur at once, the system prioritizes the most critical one.
+When multiple conditions occur at once, the system prioritizes and surfaces only the most critical alert to reduce cognitive overload.
 
 ## Example scenario
 In a high-risk environment (like a spacecraft or industrial setting)
