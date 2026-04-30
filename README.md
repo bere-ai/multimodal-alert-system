@@ -10,7 +10,7 @@ View the interactive system here:
 https://bere-ai.github.io/multimodal-alert-system/
 
 ## What this is
-I built this as a sound-free alert system for environments where traditional audio alarm don't work well.
+I built this as a sound-free alert system for environments where traditional audio alarms don't work well.
 
 Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly-especially for Deaf users or in high-noise environments. 
 
@@ -39,7 +39,7 @@ The system monitors simulated conditions:
   - Temperature
 
 It evaluates them using a priority-based system:
-  - Info → low priority
+  - Advisory → early priority
   - Warning → medium priority
   - Critical → high priority
 
