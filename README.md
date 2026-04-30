@@ -35,7 +35,7 @@ When we redesign how systems communicate, we don't just improve safety—we rede
 
 
 ## How it works
-The system converts environmental data into prioritized, multi-sensory signals designed for rapid human response without relying on sound.
+The system converts environmental data into prioritized multi-sensory signals designed for rapid human response without relying on sound.
 
 The system monitors simulated oxygen and temperature levels, evaluating them using a priority-based system:
   - Advisory → early priority
