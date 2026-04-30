@@ -65,16 +65,16 @@ If oxygen levels drop:
 
 Below is a live terminal simulation showing how the system responds to changing environmental conditions.
 ## Screenshots
-### Normal
+### Normal — stable conditions, no alert triggered
 ![Normal](screenshots/normal.png)
 
-### Advisory
+### Advisory — early signal with low-intensity visual and vibration cues
 ![Advisory](screenshots/advisory.png)
 
-### Warning
+### Warning — escalating conditions with stronger feedback
 ![Warning](screenshots/warning.png)
 
-### Critical
+### Critical — immediate-action state with high-intensity visual and vibration alerts
 ![Critical](screenshots/critical.png)
 
 No sound is required — all alerts are communicated through visual and haptic signals.
