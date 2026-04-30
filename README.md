@@ -27,7 +27,7 @@ That sound must be the primary way we communicate urgency.
 
 If we redesign that assumption, we don't just improve systems-we expand who those systems are built for.
 
-And in doing so, we create pathways that didn't exist before.
+When we redesign how systems communicate, we don't just improve safety-we redefine who is able to participate in them.
 
 
 ## How it works
