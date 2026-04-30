@@ -338,7 +338,7 @@ button {
   box-shadow: 0 10px 26px rgba(29, 27, 23, 0.06);
 }
 
-.level-info {
+.level-advisory {
   border-color: var(--blue);
 }
 
@@ -449,7 +449,7 @@ button {
   color: #70dfc5;
 }
 
-.status-info {
+.status-advisory {
   color: #73b5ff;
 }
 
