@@ -19,7 +19,7 @@ As a Deaf woman, I was raised to believe I could do anything, but I also grew up
 
 I once dreamed of becoming an astronaut, but I learned quickly that there was no clear path for someone like me. Not because of ability, but because critical systems-like alert and communication-depend heavily on sound. 
 
-That realization isn't just personal-it's systemic.
+That realization isn't just personal—it's systemic.
 
 When safety systems rely on a single sensory channel, they create limitations not only for Deaf individuals, but for anyone in environments where sound becomes unreliable—such as space missions, high-noise industrial settings, or high-stress conditions.
 
@@ -27,7 +27,7 @@ This project explores a different approach.
 
 By removing audio as a dependency and designing alerts through visual and haptic feedback, this system creates a more inclusive and reliable way for humans to detect and respond to critical situations.
 
-The goal isn't just to build a tool-it's to challenge an assumption:
+The goal isn't just to build a tool—it's to challenge an assumption:
 That sound must be the primary way we communicate urgency.
 
 When we redesign how systems communicate, we don't just improve safety—we redefine who is able to participate in them.
@@ -74,7 +74,7 @@ Below is a live terminal simulation showing how the system responds to changing 
 ### Critical
 ![Critical](screenshots/critical.png)
 
-No sound is required - all alerts are communicated through visual and haptic signals.
+No sound is required — all alerts are communicated through visual and haptic signals.
 
 ## Design Principles
 This system is built on three core ideas:
