@@ -2,12 +2,12 @@ const demoSteps = [
   {
     cycle: "01",
     oxygen: "100%",
-    temperature: "70 F",
+    temperature: "70°F",
     priority: "Normal",
     statusClass: "status-normal",
     lines: [
       "Oxygen level: 100%",
-      "Temperature: 70 F",
+      "Temperature: 70°F",
       "",
       "--- ALERT SYSTEM ---",
       "STATUS: NORMAL",
@@ -19,12 +19,12 @@ const demoSteps = [
   {
     cycle: "03",
     oxygen: "80%",
-    temperature: "80 F",
+    temperature: "80°F",
     priority: "Advisory",
     statusClass: "status-advisory",
     lines: [
       "Oxygen level: 80%",
-      "Temperature: 80 F",
+      "Temperature: 80°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: ADVISORY",
@@ -36,12 +36,12 @@ const demoSteps = [
   {
     cycle: "04",
     oxygen: "70%",
-    temperature: "85 F",
+    temperature: "85°F",
     priority: "Advisory",
     statusClass: "status-advisory",
     lines: [
       "Oxygen level: 70%",
-      "Temperature: 85 F",
+      "Temperature: 85°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: ADVISORY",
@@ -53,12 +53,12 @@ const demoSteps = [
   {
     cycle: "05",
     oxygen: "60%",
-    temperature: "88 F",
+    temperature: "90°F",
     priority: "Warning",
     statusClass: "status-warning",
     lines: [
       "Oxygen level: 60%",
-      "Temperature: 88 F",
+      "Temperature: 90°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: WARNING",
@@ -70,12 +70,12 @@ const demoSteps = [
   {
     cycle: "06",
     oxygen: "50%",
-    temperature: "95 F",
+    temperature: "100°F",
     priority: "Critical",
     statusClass: "status-critical",
     lines: [
       "Oxygen level: 50%",
-      "Temperature: 95 F",
+      "Temperature: 100°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: CRITICAL",
@@ -87,12 +87,12 @@ const demoSteps = [
   {
     cycle: "07",
     oxygen: "40%",
-    temperature: "95 F",
+    temperature: "100°F",
     priority: "Critical",
     statusClass: "status-critical",
     lines: [
       "Oxygen level: 40%",
-      "Temperature: 95 F",
+      "Temperature: 100°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: CRITICAL",
@@ -104,12 +104,12 @@ const demoSteps = [
   {
     cycle: "09",
     oxygen: "20%",
-    temperature: "110 F",
+    temperature: "110°F",
     priority: "Critical",
     statusClass: "status-critical",
     lines: [
       "Oxygen level: 20%",
-      "Temperature: 110 F",
+      "Temperature: 110°F",
       "",
       "--- ALERT SYSTEM ---",
       "PRIORITY: CRITICAL",
