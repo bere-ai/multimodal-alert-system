@@ -25,8 +25,6 @@ By removing audio as a dependency and designing alerts through visual and haptic
 The goal isn't just to build a tool-it's to challenge an assumption:
 That sound must be the primary way we communicate urgency.
 
-If we redesign that assumption, we don't just improve systems-we expand who those systems are built for.
-
 When we redesign how systems communicate, we don't just improve safety-we redefine who is able to participate in them.
 
 
