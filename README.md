@@ -61,15 +61,17 @@ If oxygen levels drop:
 ## Demo
 
 Below is a live terminal simulation showing how the system responds to changing environmental conditions.
-
-
-### Normal state
+## Screenshots
+### Normal
 ![Normal](screenshots/normal.png)
 
-### Warning state
+### Advisory
+![Advisory](screenshots/advisory.png)
+
+### Warning
 ![Warning](screenshots/warning.png)
 
-### Critical state
+### Critical
 ![Critical](screenshots/critical.png)
 
 No sound is required.
