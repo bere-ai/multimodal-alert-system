@@ -10,14 +10,25 @@ I built this as a sound-free alert system for environments where traditional aud
 Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly-especially for Deaf users or in high-noise environments. 
 
 ## Why it matters
-Most alert systems depend on sound.
+As a Deaf woman, I was raised to believe I could do anything-but I also grew up in systems that weren't designed with me in mind.
 
-That creates real gaps:
-  - Deaf individuals can't access audio alarms
-  - Loud environments can override sound
-  - Important warnings can be missed
+I once dreamed of becoming an astronaut, but I learned quickly that there was no clear path for someone like me. Not because of ability, but because critical systems-like alert and communication-depend heavily on sound. 
 
-I wanted to explore how systems can communicate clearly WITHOUT SOUND, while still being effective in high-risk situations.
+That realization isn't just personal-it's systemic.
+
+When safety systems rely on a single sensory channel, they create limitations not only for Deaf individuals, but for anyone in environments where sound becomes unreliable-such as space missions, high-noise industrial settings, or high-stress conditions.
+
+This project explores a different approach.
+
+By removing audio as a dependency and designing alerts through visual and haptic feedback, this system creates a more inclusive and reliable way for humans to detect and respond to critical situations.
+
+The goal isn't just to build a tool-it's to challenge an assumption:
+That sound must be the primary way we communicate urgency.
+
+If we redesign that assumption, we don't just improve systems-we expand who those systems are built for.
+
+And in doing so, we create pathways that didn't exist before.
+
 
 ## How it works
 The system monitors simulated conditions:
