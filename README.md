@@ -12,25 +12,25 @@ https://bere-ai.github.io/multimodal-alert-system/
 ## What this is
 I built this as a sound-free alert system for environments where traditional audio alarms don't work well.
 
-Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly-especially for Deaf users or in high-noise environments. 
+Instead of relying on sound, it uses visual signals and vibration patterns to communicate important information clearly—especially for Deaf users or in high-noise environments. 
 
 ## Why it matters
-As a Deaf woman, I was raised to believe I could do anything-but I also grew up in systems that weren't designed with me in mind.
+As a Deaf woman, I was raised to believe I could do anything—but I also grew up in systems that weren't designed with me in mind.
 
 I once dreamed of becoming an astronaut, but I learned quickly that there was no clear path for someone like me. Not because of ability, but because critical systems-like alert and communication-depend heavily on sound. 
 
-That realization isn't just personal-it's systemic.
+That realization isn't just personal—it's systemic.
 
-When safety systems rely on a single sensory channel, they create limitations not only for Deaf individuals, but for anyone in environments where sound becomes unreliable-such as space missions, high-noise industrial settings, or high-stress conditions.
+When safety systems rely on a single sensory channel, they create limitations not only for Deaf individuals, but for anyone in environments where sound becomes unreliable—such as space missions, high-noise industrial settings, or high-stress conditions.
 
 This project explores a different approach.
 
 By removing audio as a dependency and designing alerts through visual and haptic feedback, this system creates a more inclusive and reliable way for humans to detect and respond to critical situations.
 
-The goal isn't just to build a tool-it's to challenge an assumption:
+The goal isn't just to build a tool—it's to challenge an assumption:
 That sound must be the primary way we communicate urgency.
 
-When we redesign how systems communicate, we don't just improve safety-we redefine who is able to participate in them.
+When we redesign how systems communicate, we don't just improve safety—we redefine who is able to participate in them.
 
 
 ## How it works
@@ -113,4 +113,5 @@ python3 main.py --cycles 5
 
 ## Author
 Berenice Alvarez-Caballero (Bere)
+
 Interested in accessibility, systems design, and human-centered AI
