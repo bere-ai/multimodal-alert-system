@@ -74,7 +74,7 @@ Below is a live terminal simulation showing how the system responds to changing 
 ### Critical
 ![Critical](screenshots/critical.png)
 
-No sound is required.
+No sound is required - all alerts are communicated through visual and haptic signals.
 
 ## How to run
 
