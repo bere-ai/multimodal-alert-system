@@ -4,6 +4,11 @@
 Most safety systems rely on sound—but sound is often the first thing to fail in high-risk environments. 
 
 This system removes audio entirely and replaces it with visual and vibration-based alerts, creating a more direct and reliable way for humans to detect and respond to critical conditions in high-risk environments like space missions, industrial workspaces, and Deaf-centered systems.
+
+## Live Demo
+View the interactive system here:
+https://bere-ai.github.io/multimodal-alert-system/
+
 ## What this is
 I built this as a sound-free alert system for environments where traditional audio alarm don't work well.
 
