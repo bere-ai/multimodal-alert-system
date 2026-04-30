@@ -18,7 +18,7 @@ Instead of relying on sound, it uses visual signals and vibration patterns to co
 ## Why it matters
 As a Deaf woman, I was raised to believe I could do anything, but I also grew up in systems that weren't designed with me in mind.
 
-I once dreamed of becoming an astronaut, but I learned quickly that there was no clear path for someone like me. Not because of ability, but because critical systems - like alert and communication systems -depend heavily on sound. 
+I once dreamed of becoming an astronaut, but I learned quickly that there was no clear path for someone like me. Not because of ability, but because critical systems — like alert and communication systems — depend heavily on sound. 
 
 That realization isn't just personal—it's systemic.
 
@@ -63,7 +63,7 @@ If oxygen levels drop:
 
 ## Demo
 
-Below is a live terminal simulation showing how the system responds to changing environmental conditions.
+Below is a terminal simulation showing how the system responds to changing environmental conditions.
 ## Screenshots
 ### Normal — stable conditions, no alert triggered
 ![Normal](screenshots/normal.png)
