@@ -71,7 +71,7 @@ Below is a terminal simulation showing how the system responds to changing envir
 ### Advisory — early signal with low-intensity visual and vibration cues
 ![Advisory](screenshots/advisory.png)
 
-### Warning — escalating conditions with stronger feedback
+### Warning — escalating conditions with stronger visual and vibration feedback
 ![Warning](screenshots/warning.png)
 
 ### Critical — immediate-action state with high-intensity visual and vibration alerts
