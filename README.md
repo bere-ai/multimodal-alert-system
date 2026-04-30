@@ -76,6 +76,15 @@ Below is a live terminal simulation showing how the system responds to changing 
 
 No sound is required - all alerts are communicated through visual and haptic signals.
 
+## Design Principles
+This system is built on three core ideas:
+
+- **Redundancy over reliance** - Safety should not depend on a single sensory channel.
+- **Clarity under stress** - Alerts must be instantly readable in high-pressure environments.
+- **Accessibility by design** - Systems should work for more people, not exclude them.
+
+These principles guide how alerts are structured, prioritized, and communicated.
+
 ## How to run
 
 ```bash
